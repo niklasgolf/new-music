@@ -1,3 +1,36 @@
+---
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Allow only authenticated users to read from 'users' collection
+    match /users/{userId} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+  }
+}
+
+---
+
+npm install firebase
+
+---
+
+npx create-next-app@latest .
+
+- ✔ Would you like to use TypeScript? … No / Yes
+- ✔ Would you like to use ESLint? … No / Yes
+- ✔ Would you like to use Tailwind CSS? … No / Yes
+- ✔ Would you like your code inside a `src/` directory? … No / Yes
+- ✔ Would you like to use App Router? (recommended) … No / Yes
+- ✔ Would you like to use Turbopack for `next dev`? … No / Yes
+- ✔ Would you like to customize the import alias (`@/*` by default)? … No / Yes
+- Creating a new Next.js app in /Users/niklasherrloff/Documents/sommarlov2025/new-music.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

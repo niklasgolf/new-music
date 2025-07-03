@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    padding: 0 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .welcomeMessage {
+    font-size: 1.2rem;
+    color: #00008b;
+  }
+  
+  .logoutButton {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0070f3;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .logoutButton:hover {
+    background-color: #005bb5;
+  }
+  
