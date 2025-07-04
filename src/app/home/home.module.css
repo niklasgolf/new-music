@@ -1,32 +1,71 @@
 .container {
-    width: 100%;
-  }
-  
-  .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 50px;
-    padding: 0 20px;
-    background-color: #f0f0f0;
-  }
-  
-  .welcomeMessage {
-    font-size: 1.2rem;
-    color: #00008b;
-  }
-  
-  .logoutButton {
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    background-color: #0070f3;
-    color: white;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .logoutButton:hover {
-    background-color: #005bb5;
-  }
-  
+  display: grid;
+  grid-template-rows: auto 1fr;
+  /* header + fill rest */
+  height: 100vh;
+  width: 100vw;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  padding: 0 20px;
+  background-color: #f0f0f0;
+}
+
+.welcomeMessage {
+  font-size: 1.2rem;
+  color: #00008b;
+}
+
+.logoutButton {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #0070f3;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.logoutButton:hover {
+  background-color: #005bb5;
+}
+
+.mainContent {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  padding: 10px;
+  background-color: #fff;
+  overflow-y: auto;
+  /* allows scroll if needed */
+}
+
+.gridItem {
+  border-radius: 8px;
+  height: 100%;
+  /* takes full available height from grid */
+}
+
+.gridItem1 {
+  background-color: #FFDDC1;
+  /* Light Orange */
+}
+
+.gridItem2 {
+  background-color: #D4F0F0;
+  /* Light Blue */
+}
+
+.gridItem3 {
+  background-color: #E8DFF5;
+  /* Light Purple */
+}
+
+.gridItem4 {
+  background-color: #F0FFF0;
+  /* Honeydew */
+}

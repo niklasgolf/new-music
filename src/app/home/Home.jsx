@@ -4,6 +4,7 @@ import { useRouter } from 'next/navigation';
 import { getAuth, onAuthStateChanged, signOut } from 'firebase/auth';
 import { auth } from '../../firebase/firebaseConfig';
 import styles from './home.module.css';
+import Finder from '../../components/finder/Finder';
 
 export default function Home() {
   const [user, setUser] = useState(null);
@@ -42,6 +43,14 @@ export default function Home() {
           Logout
         </button>
       </header>
+      <div className={styles.mainContent}>
+        <div className={`${styles.gridItem} ${styles.gridItem1}`}>
+          <Finder />
+        </div>
+        <div className={`${styles.gridItem} ${styles.gridItem2}`}></div>
+        <div className={`${styles.gridItem} ${styles.gridItem3}`}></div>
+        <div className={`${styles.gridItem} ${styles.gridItem4}`}></div>
+      </div>
     </div>
   );
 }
