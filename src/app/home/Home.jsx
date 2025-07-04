@@ -4,6 +4,9 @@ import { useRouter } from 'next/navigation';
 import { getAuth, onAuthStateChanged, signOut } from 'firebase/auth';
 import { auth } from '../../firebase/firebaseConfig';
 import styles from './home.module.css';
+import { MelodyProvider } from '../../components/finder/MelodyContext';
+import EditMelody from '../../components/finder/EditMelody';
+import ConditionalSheetMusic from '../../components/ConditionalSheetMusic';
 import Finder from '../../components/finder/Finder';
 
 export default function Home() {
@@ -43,14 +46,19 @@ export default function Home() {
           Logout
         </button>
       </header>
-      <div className={styles.mainContent}>
-        <div className={`${styles.gridItem} ${styles.gridItem1}`}>
-          <Finder />
+      <MelodyProvider>
+        <div className={styles.mainContent}>
+          <div className={`${styles.gridItem} ${styles.gridItem1}`}>
+            <Finder />
+            <ConditionalSheetMusic />
+          </div>
+          <div className={`${styles.gridItem} ${styles.gridItem2}`}>
+            <EditMelody />
+          </div>
+          <div className={`${styles.gridItem} ${styles.gridItem3}`}></div>
+          <div className={`${styles.gridItem} ${styles.gridItem4}`}></div>
         </div>
-        <div className={`${styles.gridItem} ${styles.gridItem2}`}></div>
-        <div className={`${styles.gridItem} ${styles.gridItem3}`}></div>
-        <div className={`${styles.gridItem} ${styles.gridItem4}`}></div>
-      </div>
+      </MelodyProvider>
     </div>
   );
 }

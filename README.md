@@ -1,5 +1,18 @@
 ---
 
+You can now use: (radix UI)
+🔲 <Checkbox />
+🔘 <RadioGroup />
+🎚️ <Switch />
+💬 <Popover />
+🧭 <Tabs />
+📦 <Dialog />
+🔽 <DropdownMenu />
+💡 <Tooltip />
+And shared icons via @radix-ui/react-icons
+
+---
+
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
