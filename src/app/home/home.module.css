@@ -7,12 +7,39 @@
 }
 
 .header {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   height: 50px;
-  padding: 0 20px;
   background-color: #f0f0f0;
+}
+
+.headerLeft {
+  background-color: #9999AA;
+  /* Grayish-Blue */
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.headerCenter {
+  background-color: #99AA99;
+  /* Grayish-Green */
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.headerRight {
+  background-color: #AAAA99;
+  /* Grayish-Yellow */
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 20px;
 }
 
 .welcomeMessage {
@@ -47,6 +74,8 @@
 .gridItem {
   border-radius: 8px;
   height: 100%;
+  color: black;
+  /* <-- Add this line */
   /* takes full available height from grid */
 }
 

@@ -1,0 +1,3831 @@
+[
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "skriva_texten", "data": [1, "e7", 38, "sidbokstavs_farg", "A"] },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [202, "h", 7, "b3", 2, "d5"] },
+  {
+    "comment-blue": "(noters takt  1) Sida  1 *** Takt  4"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_gruppA", "data": [1, 103, 101, 101, "e2", "b2", "b2"] },
+  { "name": "rita_gruppA", "data": [5, 105, 101, 101, "b1", "b2", "b2"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "a3", "b3", "a3", "b3"]
+  },
+  { "name": "rita_not", "data": [205, "h", 1, "e4", 2, "d5"] },
+  { "name": "rita_not", "data": [204, "h", 3, "k4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 4, "e4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 5, "k4", 5, "d5"] },
+  { "name": "rita_not", "data": [205, "h", 5, "i4", 5, "d5"] },
+  { "name": "skriva_texten", "data": [8, "o7", 22, "config.fargbrun", "1"] },
+  {
+    "comment-blue": "(noters takt  2) Sida  1 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_gruppA", "data": [1, 105, 101, 101, "b1", "b2", "b2"] },
+  { "name": "rita_gruppA", "data": [5, 103, 101, 101, "e2", "b2", "b2"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 201, 201, 201, "a3", "b3", "a3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  { "name": "rita_not", "data": [204, "H", 1, "k4", 1, "d5"] },
+  { "name": "rita_not", "data": [205, "H", 1, "i4", 1, "d5"] },
+  { "name": "rita_not", "data": [205, "h", 2, "l4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 3, "k4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 3, "l4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 4, "i4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 5, "e4", 4, "d5"] },
+  { "name": "rita_not", "data": [205, "h", 5, "l4", 5, "e5"] },
+  {
+    "comment-blue": "(noters takt  3) Sida  1 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_gruppA", "data": [1, 103, 101, 101, "e2", "b2", "b2"] },
+  { "name": "rita_gruppA", "data": [5, 105, 101, 101, "b1", "b2", "b2"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 202, 201, 202, "l3", "e4", "b3", "e4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 203, 201, 202, "k4", "a4", "b3", "k4"]
+  },
+  { "name": "rita_not", "data": [205, "H", 1, "l4", 1, "e5"] },
+  { "name": "rita_not", "data": [205, "h", 2, "a4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 3, "a4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 4, "l4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 5, "o5", 2, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 8, "b4", 1, ""] },
+  {
+    "comment-blue": "(noters takt  4) Sida  1 *** Takt  7"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_gruppA", "data": [1, 103, 101, 101, "e2", "b2", "b2"] },
+  { "name": "rita_gruppA", "data": [5, 105, 101, 101, "b1", "b2", "b2"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 203, 201, 201, "b3", "e4", "l3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "k3",
+      "e3",
+      201202,
+      201203,
+      201202,
+      201203,
+      "a3o4",
+      "b3k4",
+      "a3o4",
+      "b3k4"
+    ]
+  },
+  { "name": "rita_not", "data": [205, "h", 1, "a4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 2, "l4", 1, ""] },
+  { "name": "rita_not", "data": [202, "h", 3, "k4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 4, "e4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 5, "i4", 5, "d5"] },
+  {
+    "comment-blue": "(noters takt  5) Sida  1 *** Takt  8"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_gruppA", "data": [1, 105, 101, 101, "b1", "b2", "b2"] },
+  { "name": "rita_gruppA", "data": [5, 103, 101, 101, "e2", "b2", "b2"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "k3",
+      "e3",
+      201202,
+      201203,
+      201202,
+      201203,
+      "a3o4",
+      "b3k4",
+      "a3o4",
+      "b3k4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  { "name": "rita_not", "data": [204, "H", 1, "i4", 1, "d5"] },
+  { "name": "rita_not", "data": [205, "h", 2, "l4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 3, "l4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 4, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 5, "e4", 4, "d5"] },
+  { "name": "skriva_texten", "data": [8, "o7", 22, "config.fargbrun", "5"] },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "config.fargtitel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 1"
+  },
+  { "comment-blue": "(noters takt  6) **************** Sida  2 *** Takt  1" },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "skriva_texten",
+    "data": [1, "e7", 38, "config.sidbokstavs_farg", "B"]
+  },
+  { "name": "rita_gruppA", "data": [1, 105, 101, 101, "e2", "e3", "e3"] },
+  { "name": "rita_gruppA", "data": [5, 103, 101, 101, "a2", "e3", "e3"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "l3", "a3", 201, 202, 201, 202, "d4", "e4", "d4", "e4"]
+  },
+  { "name": "rita_not", "data": [202, "h", 4, "e4", 1, ""] },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "l3", "a3", 201, 202, 201, 202, "o4", "e4", "o4", "e4"]
+  },
+  { "name": "rita_not", "data": [204, "h", 1, "l4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 2, "a4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 3, "i4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 4, "l4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 5, "a4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 6, "b4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 7, "l4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 8, "a4", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 8, "a4", 1, ""] },
+  { "name": "skriva_texten", "data": [8, "o7", 22, "config.fargbrun", "6"] },
+  {
+    "comment-blue": "(noters takt  7) **************** Sida  2 *** Takt  2"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 104, 101, 101, "a2", "i3", "i3"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 103, 101, 101, "b2", "i3", "i3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "l3", "a3", 201, 202, 201, 202, "o4", "e4", "o4", "e4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "l3", "a3", 201, 202, 201, 202, "b3", "e4", "b3", "e4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "o5", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 3, "i4", 4, "d5"]
+  },
+  {
+    "name": "rita_gra",
+    "data": [205, "h", 7, "u4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 7, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 8, "i4", 2, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  8) **************** Sida  2 *** Takt  3"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 102, 101, 101, "o3", "i3", "i3"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 102, 102, "b2", "i3", "i3"]
+  },
+  {
+    "name": "rita_rak_kurva",
+    "data": ["o4", 1, "o4", 4]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 1, "u3", 1, "o4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 2, "e4", 1, "o4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 3, "u3", 1, "o4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 4, "e4", 1, "o4"]
+  },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["d3", 5, "d3", 7]
+  },
+  {
+    "name": "rita_rak_kurva",
+    "data": ["e4", 6, "e4", 8]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 5, "a3", 1, "d3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 6, "b3", 1, "e4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 7, "a3", 1, "d3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 8, "b3", 1, "e4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "H", 1, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_gra",
+    "data": [205, "h", 3, "u4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 3, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 4, "i4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 5, "k4", 4, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "b4", 4, "d6"]
+  },
+  {
+    "comment-blue": "(noters takt  9) **************** Sida  2 *** Takt  4"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "a3", "b3", "a3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 1, "e4", 2, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "l4", 2, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 3, "k4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 4, "e4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "k4", 5, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "i4", 5, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  10) **************** Sida  2 *** Takt  5"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 201, 201, 201, "a3", "b3", "a3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "H", 1, "k4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "H", 1, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 3, "k4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "i4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "e4", 4, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "l4", 5, "e5"]
+  },
+  {
+    "comment-blue": "(noters takt  11) **************** Sida  2 *** Takt  6"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 202, 201, 202, "l3", "e4", "b3", "e4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 203, 201, 202, "k4", "a4", "b3", "k4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "H", 1, "l4", 1, "e5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "o5", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 8, "b4", 1, ""]
+  },
+  {
+    "comment-blue": "(noters takt  12) **************** Sida  2 *** Takt  7"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 203, 201, 201, "b3", "e4", "l3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "k3",
+      "e3",
+      201202,
+      201203,
+      201202,
+      201203,
+      "a3o4",
+      "b3k4",
+      "a3o4",
+      "b3k4"
+    ]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 2, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 3, "k4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 4, "e4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "i4", 5, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  13) **************** Sida  2 *** Takt  8"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "k3",
+      "e3",
+      201202,
+      201203,
+      201202,
+      201203,
+      "a3o4",
+      "b3k4",
+      "a3o4",
+      "b3k4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "H", 1, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "i4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "e4", 4, "d5"]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "config.fargbrun", "13"]
+  },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "config.fargtitel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 2"
+  },
+  {
+    "comment-blue": "(noters takt  14) **************** Sida  3 *** Takt  1"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "skriva_texten",
+    "data": [1, "e7", 38, "config.sidbokstavs_farg", "C"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 105, 101, 101, "e2", "e3", "e3"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 103, 101, 101, "a2", "e3", "e3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "l3",
+      "a3",
+      201202,
+      201203,
+      201202,
+      201203,
+      "d4i4",
+      "e4l4",
+      "d4i4",
+      "e4l4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "l3", "a3", 201, 202, 201, 202, "o4", "e4", "o4", "e4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 1, "b4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "o5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "o5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "b4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 6, "b4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 7, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 8, "a4", 1, ""]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "config.fargbrun", "14"]
+  },
+  {
+    "comment-blue": "(noters takt  15) **************** Sida  3 *** Takt  2"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 105, 101, 101, "l2", "l3", "l3"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 101, 101, "o3", "l3", "l3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o4",
+      "d4",
+      201203,
+      201,
+      202,
+      201203,
+      "i4c5",
+      "l4",
+      "u4",
+      "l4c5"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "b3", "c4", 201, 202, 201, 202, "e4", "l4", "e4", "l4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 1, "k5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "e5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "e5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "k5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "o5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 6, "k5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 7, "c5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 8, "o5", 1, ""]
+  },
+  {
+    "comment-blue": "(noters takt  16) **************** Sida  3 *** Takt  3"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_rak_kurva_C", "data": ["k2", 1, "k2", 4] },
+  { "name": "rita_not", "data": [105, "v", 1, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 1, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 1, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 1, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 2, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 2, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 2, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 2, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 3, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 3, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 3, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 3, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 4, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 4, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 4, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 4, "u3", 1, ""] },
+  { "name": "rita_rak_kurva_C", "data": ["d2", 5, "d2", 8] },
+  { "name": "rita_not", "data": [105, "v", 5, "c3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 5, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 5, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 5, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 6, "c3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 6, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 6, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 6, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 7, "c3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 7, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 7, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 7, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 8, "c3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 8, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 8, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 8, "u3", 1, ""] },
+  { "name": "rita_rak_kurva", "data": ["o6", 1, "o6", 4] },
+  { "name": "rita_not", "data": [201, "h", 1, "e4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 1, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 1, "e5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 2, "i4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 2, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 2, "i5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 3, "k4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 3, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 3, "k5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 4, "e4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 4, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 4, "e5", 1, ""] },
+  { "name": "rita_rak_kurva", "data": ["d6", 5, "d6", 8] },
+  { "name": "rita_not", "data": [201, "h", 5, "i4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 5, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 5, "i5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 6, "l4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 6, "l5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 7, "e4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 7, "e5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 8, "i4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 8, "i5", 1, ""] },
+  {
+    "comment-blue": "(noters takt  17) **************** Sida  3 *** Takt  4"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "b2", 8, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 1, "e3", 8, "d2"] },
+  { "name": "rita_not", "data": [102, "v", 1, "l3", 8, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 1, "b3", 8, "d2"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k4", "e4", 201, 202, 201, 202, "l4", "b4", "l4", "b4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k4", "e4", 201, 202, 201, 202, "l4", "b4", "l4", "b4"]
+  },
+  { "name": "rita_not", "data": [204, "h", 1, "e5", 4, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "l5", 5, "e6"] },
+  { "name": "rita_not", "data": [205, "h", 6, "i5", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 7, "e5", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 8, "o5", 1, ""] },
+  {
+    "comment-blue": "(noters takt  18) **************** Sida  3 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "k2", "e2", 102, 101, 105, 101, "i3", "b3", "b2", "b3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "k2", "e2", 104, 101, 105, 101, "o3", "l3", "l2", "l3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "b4", "c5", 201, 202, 201, 202, "k4", "i4", "k4", "i4"]
+  },
+  { "name": "rita_rak_kurva", "data": ["c4", 5, "o4", 8] },
+  { "name": "rita_not", "data": [201, "h", 5, "e4", 1, "c4"] },
+  { "name": "rita_not", "data": [202, "h", 6, "l4", 1, "c4"] },
+  { "name": "rita_not", "data": [201, "h", 7, "e4", 1, "o4"] },
+  { "name": "rita_not", "data": [205, "h", 1, "k5", 4, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 5, "e5", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 6, "k5", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 7, "o5", 1, ""] },
+  { "name": "rita_not", "data": [202, "h", 8, "l4", 1, ""] },
+  {
+    "comment-blue": "(noters takt  19) **************** Sida  3 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "o2", "d2", 102, 101, 105, 101, "k3", "l3", "l2", "l3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "b1", "c2", 104, 101, 105, 101, "a2", "e3", "e2", "e3"]
+  },
+  { "name": "rita_rak_kurva", "data": ["g4", 1, "l4", 4] },
+  { "name": "rita_not", "data": [201, "h", 1, "b3", 1, "g4"] },
+  { "name": "rita_not", "data": [202, "h", 2, "k4", 1, "g4"] },
+  { "name": "rita_not", "data": [201, "h", 3, "b3", 1, "l4"] },
+  { "name": "rita_not", "data": [202, "h", 4, "k4", 1, "l4"] },
+  { "name": "rita_rak_kurva", "data": ["l3", 5, "a3", 8] },
+  { "name": "rita_not", "data": [201, "h", 5, "o4", 1, "l3"] },
+  { "name": "rita_not", "data": [201, "h", 6, "e4", 1, "l3"] },
+  { "name": "rita_not", "data": [201, "h", 7, "o4", 1, "a3"] },
+  { "name": "rita_not", "data": [205, "h", 1, "b4", 4, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 5, "o5", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 6, "b4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 7, "a4", 1, ""] },
+  { "name": "rita_not", "data": [202, "h", 8, "e4", 1, ""] },
+  {
+    "comment-blue": "(noters takt  20) **************** Sida  3 *** Takt  7"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "b1", "c2", 102, 101, 105, 101, "b2", "e3", "e2", "e3"]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["b1", 5, "c2", 8] },
+  { "name": "rita_not", "data": [102, "v", 5, "b2", 1, "b1"] },
+  { "name": "rita_not", "data": [101, "v", 6, "e3", 1, "b1"] },
+  { "name": "rita_not", "data": [105, "v", 7, "e2", 1, "c2"] },
+  { "name": "rita_not", "data": [101, "v", 8, "e3", 2, "d3"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k4", "e4", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k4", "e4", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  { "name": "rita_not", "data": [205, "h", 1, "l4", 8, "d5"] },
+  {
+    "comment-blue": "(noters takt  21) **************** Sida  3 *** Takt  8"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "e2", 4, "d1"] },
+  { "name": "rita_not", "data": [102, "v", 1, "b2", 4, "d1"] },
+  { "name": "rita_not", "data": [101, "V", 1, "e3", 4, "d3"] },
+  { "name": "rita_not", "data": [201, "h", 1, "l3", 4, "d5"] },
+  { "name": "rita_not", "data": [203, "h", 1, "e4", 4, "d5"] },
+  { "name": "rita_gra", "data": [205, "h", 1, "l4", 2, ""] },
+  { "name": "rita_gra", "data": [204, "h", 1, "i4", 1, ""] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      202205,
+      201204,
+      202205,
+      201203,
+      "l4e5",
+      "i4k5",
+      "l4e5",
+      "k4b4"
+    ]
+  },
+  { "name": "skriva_texten", "data": [8, "o7", 22, "config.fargbrun", "21"] },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "config.fargtitel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 3"
+  },
+  {
+    "comment-blue": "(noters takt  22) **************** Sida  4 *** Takt  1"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "skriva_texten",
+    "data": [1, "e7", 38, "config.sidbokstavs_farg", "D"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "o2", "d2", 105, 101, 105, 101, "i2", "u3", "i2", "b3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "o2", "d2", 105, 101, 102, 101, "i2", "o4", "b3", "u3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o6",
+      "c6",
+      202205,
+      201204,
+      202205,
+      201203,
+      "i4k5",
+      "e4o5",
+      "i4k5",
+      "k4l4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      201205,
+      204,
+      203205,
+      202,
+      "e4b4",
+      "u4",
+      "l4o5",
+      "i4"
+    ]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "config.fargbrun", "22"]
+  },
+  {
+    "comment-blue": "(noters takt  23) **************** Sida  4 *** Takt  2"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["k2", 1, "k2", 2]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 1, "b2", 1, "k2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 2, "i3", 1, "k2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 3, "b3", 2, "k2"]
+  },
+  {
+    "name": "rita_gra",
+    "data": [205, "h", 1, "u4", 1, ""]
+  },
+  {
+    "name": "rita_gra",
+    "data": [205, "h", 3, "u4", 1, ""]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o6",
+      "c6",
+      202204,
+      201203,
+      202204,
+      201203,
+      "e4l4",
+      "k4i4",
+      "e4l4",
+      "k4i4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      202205,
+      201204,
+      202205,
+      201203,
+      "l4e5",
+      "i4k5",
+      "l4e5",
+      "k4b4"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  24) **************** Sida  4 *** Takt  3"
+  },
+  {
+    "name": "raknaTaktSida",
+    "data": []
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "o2", "d2", 105, 101, 105, 101, "i2", "u3", "i2", "b3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "o2", "d2", 105, 101, 102, 101, "i2", "o4", "b3", "u3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o6",
+      "c6",
+      202205,
+      201204,
+      202205,
+      201203,
+      "i4k5",
+      "e4o5",
+      "i4k5",
+      "k4l4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      201205,
+      204,
+      203205,
+      202,
+      "e4b4",
+      "u4",
+      "l4o5",
+      "i4"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  25) **************** Sida  4 *** Takt  4"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_rak_kurva_C", "data": ["k2", 1, "k2", 2] },
+  { "name": "rita_not", "data": [105, "v", 1, "b2", 1, "k2"] },
+  { "name": "rita_not", "data": [102, "v", 2, "i3", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 3, "b3", 2, "k2"] },
+  { "name": "rita_gra", "data": [205, "h", 1, "u4", 1, ""] },
+  { "name": "rita_gra", "data": [205, "h", 3, "u4", 1, ""] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o6",
+      "c6",
+      202204,
+      201203,
+      202204,
+      201203,
+      "e4l4",
+      "k4i4",
+      "e4l4",
+      "k4i4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      202205,
+      201204,
+      202205,
+      201203,
+      "a4i5",
+      "l4e5",
+      "a4i5",
+      "e4o5"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  26) **************** Sida  4 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "o2", "d2", 105, 101, 105, 101, "l2", "c4", "l2", "o4"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "o2", "d2", 105, 101, 102, 101, "l2", "k4", "o4", "c4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o6",
+      "c6",
+      202205,
+      201204,
+      202205,
+      201203,
+      "l4e5",
+      "i4k5",
+      "l4e5",
+      "e4u4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      201205,
+      204,
+      202205,
+      201,
+      "i4o5",
+      "c5",
+      "a4k5",
+      "l4"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  27) **************** Sida  4 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_rak_kurva_C", "data": ["k2", 1, "k2", 2] },
+  { "name": "rita_not", "data": [105, "v", 1, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [102, "v", 2, "l3", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 3, "o4", 2, "k2"] },
+  { "name": "rita_gra", "data": [205, "h", 1, "b4", 1, ""] },
+  { "name": "rita_gra", "data": [205, "h", 3, "b4", 1, ""] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o6",
+      "c6",
+      202204,
+      201203,
+      202204,
+      201203,
+      "i4a4",
+      "e4l4",
+      "i4a4",
+      "e4l4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      202205,
+      201204,
+      202205,
+      201203,
+      "a4i5",
+      "l4e5",
+      "a4i5",
+      "e4o5"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  28) **************** Sida  4 *** Takt  7"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "o2", "d2", 105, 101, 105, 101, "l2", "c4", "l2", "o4"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "o2", "d2", 105, 101, 102, 101, "l2", "k4", "o4", "c4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o6",
+      "c6",
+      202205,
+      201204,
+      202205,
+      201203,
+      "l4e5",
+      "i4k5",
+      "l4e5",
+      "e4u4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      201205,
+      204,
+      202205,
+      201,
+      "i4o5",
+      "c5",
+      "a4k5",
+      "l4"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  29) **************** Sida  4 *** Takt  8"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "o2", "d2", 105, 102, 101, 104, "o3", "l3", "o4", "o3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "o2", "d2", 105, 103, 101, 102, "b2", "d3", "e3", "b2"]
+  },
+  {
+    "name": "rita_gra",
+    "data": [205, "h", 1, "b4", 1, ""]
+  },
+  {
+    "name": "rita_gra",
+    "data": [205, "h", 3, "b4", 1, ""]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o6",
+      "c6",
+      202204,
+      201203,
+      202204,
+      201203,
+      "i4a4",
+      "e4l4",
+      "i4a4",
+      "e4l4"
+    ]
+  },
+  {
+    "name": "rita_gra",
+    "data": [205, "h", 5, "b4", 1, ""]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "o6",
+      "c6",
+      202204,
+      201203,
+      202204,
+      203205,
+      "i4a4",
+      "e4l4",
+      "i4a4",
+      "l4b4"
+    ]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "config.fargbrun", "29"]
+  },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "config.fargtitel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 4"
+  },
+  {
+    "comment-blue": "(noters takt  30) **************** Sida  5 *** Takt  1"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "skriva_texten",
+    "data": [1, "e7", 38, "config.sidbokstavs_farg", "E"]
+  },
+  {
+    "name": "rita_not",
+    "data": [103, "v", 1, "a2", 3, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 2, "e3", 1, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 3, "e3", 2, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 4, "e2", 1, "d3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 5, "b2", 3, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 6, "e3", 1, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 7, "e3", 2, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 8, "e2", 1, "d3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 1, "a4", 3, "d7"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "o5", 3, "d7"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 2, "o4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 2, "e4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 3, "d4", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 3, "i4", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 4, "o5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "l4", 3, "d7"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "b4", 3, "d7"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 6, "d4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 6, "i4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 7, "d4", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 7, "e4", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 8, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 8, "b4", 1, ""]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "config.fargbrun", "30"]
+  },
+  {
+    "comment-blue": "(noters takt  31) **************** Sida  5 *** Takt  2"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [103, "v", 1, "a2", 3, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 2, "e3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 3, "e3", 2, "d2"] },
+  { "name": "rita_not", "data": [105, "v", 4, "e2", 1, "d3"] },
+  { "name": "rita_not", "data": [102, "v", 5, "b2", 3, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 6, "e3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 7, "e3", 2, "d2"] },
+  { "name": "rita_not", "data": [105, "v", 8, "e2", 1, "d3"] },
+  { "name": "rita_not", "data": [204, "h", 1, "a4", 3, "d7"] },
+  { "name": "rita_not", "data": [205, "h", 1, "c5", 3, "d7"] },
+  { "name": "rita_not", "data": [201, "h", 2, "c4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 2, "e4", 1, "d6"] },
+  { "name": "rita_not", "data": [201, "h", 3, "d4", 2, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 3, "f4", 2, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 4, "a4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 4, "c5", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 5, "l4", 3, "d7"] },
+  { "name": "rita_not", "data": [205, "h", 5, "b4", 3, "d7"] },
+  { "name": "rita_not", "data": [201, "h", 6, "d4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 6, "f4", 1, "d6"] },
+  { "name": "rita_not", "data": [201, "h", 7, "d4", 2, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 7, "e4", 2, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 8, "l4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 8, "b4", 1, ""] },
+  {
+    "comment-blue": "(noters takt  32) **************** Sida  5 *** Takt  3 vän=2 oktaver lägre"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "g2", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 1, "g3", 1, "d2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "o2",
+      "d2",
+      105103,
+      102101,
+      102101,
+      105104,
+      "g2b2",
+      "o3e3",
+      "e3g3",
+      "b2o3"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["d2", 6, "k2", 10] },
+  { "name": "rita_not", "data": [105, "v", 6, "o3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 6, "e3", 1, "d2"] },
+  { "name": "rita_not", "data": [102, "v", 7, "g3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 7, "b3", 1, "d2"] },
+  { "name": "rita_not", "data": [102, "v", 8, "b3", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 8, "o4", 1, "k2"] },
+  { "name": "rita_not", "data": [201, "h", 1, "o4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 1, "g4", 1, "o6"] },
+  { "name": "rita_not", "data": [204, "h", 1, "b4", 1, "o6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "o5", 1, "o6"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "o5",
+      "d5",
+      203205,
+      201202,
+      201202,
+      204205,
+      "o4e4",
+      "g3b3",
+      "b3o4",
+      "e4g4"
+    ]
+  },
+  { "name": "rita_rak_kurva", "data": ["o6", 6, "d6", 10] },
+  { "name": "rita_not", "data": [203, "h", 6, "g4", 1, "o6"] },
+  { "name": "rita_not", "data": [205, "h", 6, "b4", 1, "o6"] },
+  { "name": "rita_not", "data": [201, "h", 7, "o4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 7, "e4", 1, "o6"] },
+  { "name": "rita_not", "data": [201, "h", 8, "e4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 8, "g4", 1, "d6"] },
+  {
+    "comment-blue": "(noters takt  33) **************** Sida  5 *** Takt  4 vän=2 oktaver lägre"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "e3", 1, "k2"] },
+  { "name": "rita_not", "data": [104, "v", 1, "g3", 1, "k2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "c3",
+      "o3",
+      105103,
+      102101,
+      102101,
+      105104,
+      "g3b3",
+      "o4e4",
+      "e4g4",
+      "b3o4"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["o3", 6, "o3", 8] },
+  { "name": "rita_not", "data": [105, "v", 6, "i3", 1, "o3"] },
+  { "name": "rita_not", "data": [102, "v", 6, "o4", 1, "o3"] },
+  { "name": "rita_not", "data": [101, "v", 6, "e4", 1, "o3"] },
+  { "name": "rita_not", "data": [105, "v", 7, "i3", 1, "o3"] },
+  { "name": "rita_not", "data": [102, "v", 7, "o4", 1, "o3"] },
+  { "name": "rita_not", "data": [101, "v", 7, "e4", 1, "o3"] },
+  { "name": "rita_not", "data": [105, "v", 8, "i3", 1, "o3"] },
+  { "name": "rita_not", "data": [102, "v", 8, "o4", 1, "o3"] },
+  { "name": "rita_not", "data": [101, "v", 8, "e4", 1, "o3"] },
+  { "name": "rita_not", "data": [204, "h", 1, "b4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "o5", 1, "d6"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "k6",
+      "e6",
+      203205,
+      201202,
+      201202,
+      204205,
+      "o5e5",
+      "g4b4",
+      "b4o5",
+      "e5g5"
+    ]
+  },
+  { "name": "rita_rak_kurva", "data": ["e6", 6, "e6", 8] },
+  { "name": "rita_not", "data": [101, "v", 6, "u4", 1, "e6"] },
+  { "name": "rita_not", "data": [105, "v", 6, "g5", 1, "e6"] },
+  { "name": "rita_not", "data": [101, "v", 7, "u4", 1, "e6"] },
+  { "name": "rita_not", "data": [104, "v", 7, "i5", 1, "e6"] },
+  { "name": "rita_not", "data": [101, "v", 8, "u4", 1, "e6"] },
+  { "name": "rita_not", "data": [103, "v", 8, "e5", 1, "e6"] },
+  {
+    "comment-blue": "(noters takt  34) **************** Sida  5 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [103, "v", 1, "b3", 3, "d1"] },
+  { "name": "rita_not", "data": [105, "v", 2, "i3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 3, "i3", 2, "d2"] },
+  { "name": "rita_not", "data": [105, "v", 4, "i2", 1, "d3"] },
+  { "name": "rita_not", "data": [102, "v", 5, "o3", 3, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 6, "i3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 7, "i3", 2, "d2"] },
+  { "name": "rita_not", "data": [105, "v", 8, "i2", 1, "d3"] },
+  { "name": "rita_not", "data": [204, "h", 1, "b4", 3, "d7"] },
+  { "name": "rita_not", "data": [205, "h", 1, "k5", 3, "d7"] },
+  { "name": "rita_not", "data": [201, "h", 2, "k4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 2, "i4", 1, "d6"] },
+  { "name": "rita_not", "data": [201, "h", 3, "e4", 2, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 3, "l4", 2, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 4, "b4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 4, "k5", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 5, "u4", 3, "d7"] },
+  { "name": "rita_not", "data": [205, "h", 5, "o5", 3, "d7"] },
+  { "name": "rita_not", "data": [201, "h", 6, "e4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 6, "l4", 1, "d6"] },
+  { "name": "rita_not", "data": [201, "h", 7, "e4", 2, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 7, "i4", 2, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 8, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 8, "o5", 1, ""] },
+  {
+    "comment-blue": "(noters takt  35) **************** Sida  5 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [103, "v", 1, "b2", 3, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 2, "i3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 3, "i3", 2, "d2"] },
+  { "name": "rita_not", "data": [105, "v", 4, "i2", 1, "d3"] },
+  { "name": "rita_not", "data": [102, "v", 5, "o3", 3, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 6, "i3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 7, "i3", 2, "d2"] },
+  { "name": "rita_not", "data": [105, "v", 8, "i2", 1, "d3"] },
+  { "name": "rita_not", "data": [204, "h", 1, "b4", 3, "d7"] },
+  { "name": "rita_not", "data": [205, "h", 1, "d5", 3, "d7"] },
+  { "name": "rita_not", "data": [201, "h", 2, "d4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 2, "i4", 1, "d6"] },
+  { "name": "rita_not", "data": [201, "h", 3, "e4", 2, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 3, "g4", 2, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 4, "b4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 4, "d5", 1, ""] },
+  { "name": "rita_not", "data": [204, "h", 5, "u4", 3, "d7"] },
+  { "name": "rita_not", "data": [205, "h", 5, "o5", 3, "d7"] },
+  { "name": "rita_not", "data": [201, "h", 6, "e4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 6, "g4", 1, "d6"] },
+  { "name": "rita_not", "data": [201, "h", 7, "e4", 2, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 7, "i4", 2, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 8, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 8, "o5", 1, ""] },
+  {
+    "comment-blue": "(noters takt  36) **************** Sida  5 *** Takt  7 vän=2 oktaver lägre"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "a2", 1, "o2"] },
+  { "name": "rita_not", "data": [101, "v", 1, "a3", 1, "o2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "o2",
+      "d2",
+      105103,
+      102101,
+      102101,
+      105104,
+      "a2o3",
+      "k3i3",
+      "i3a3",
+      "o3k3"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["d2", 6, "k2", 10] },
+  { "name": "rita_not", "data": [105, "v", 6, "k3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 6, "i3", 1, "d2"] },
+  { "name": "rita_not", "data": [102, "v", 7, "a3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 7, "o4", 1, "d2"] },
+  { "name": "rita_not", "data": [102, "v", 8, "o4", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 8, "k4", 1, "k2"] },
+  { "name": "rita_not", "data": [201, "h", 1, "k4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 1, "i4", 1, "o6"] },
+  { "name": "rita_not", "data": [204, "h", 1, "o5", 1, "o6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "k5", 1, "o6"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "o5",
+      "d5",
+      203205,
+      201202,
+      201202,
+      204205,
+      "k4i4",
+      "a3o4",
+      "o4k4",
+      "i4a4"
+    ]
+  },
+  { "name": "rita_rak_kurva", "data": ["o6", 6, "d6", 10] },
+  { "name": "rita_not", "data": [203, "h", 6, "a4", 1, "o6"] },
+  { "name": "rita_not", "data": [205, "h", 6, "o5", 1, "o6"] },
+  { "name": "rita_not", "data": [201, "h", 7, "k4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 7, "i4", 1, "o6"] },
+  { "name": "rita_not", "data": [201, "h", 8, "i4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 8, "a4", 1, "d6"] },
+  {
+    "comment-blue": "(noters takt  37) **************** Sida  5 *** Takt  8 vän=2 oktaver lägre"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "i3", 1, "k2"] },
+  { "name": "rita_not", "data": [104, "v", 1, "a3", 1, "k2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "c3",
+      "o3",
+      105103,
+      102101,
+      102101,
+      105104,
+      "a3o4",
+      "k4i4",
+      "i4a4",
+      "o4k4"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["o3", 6, "o3", 8] },
+  { "name": "rita_not", "data": [105, "v", 6, "l3", 1, "o3"] },
+  { "name": "rita_not", "data": [102, "v", 6, "k4", 1, "o3"] },
+  { "name": "rita_not", "data": [101, "v", 6, "i4", 1, "o3"] },
+  { "name": "rita_not", "data": [105, "v", 7, "l3", 1, "o3"] },
+  { "name": "rita_not", "data": [102, "v", 7, "k4", 1, "o3"] },
+  { "name": "rita_not", "data": [101, "v", 7, "i4", 1, "o3"] },
+  { "name": "rita_not", "data": [105, "v", 8, "l3", 1, "o3"] },
+  { "name": "rita_not", "data": [102, "v", 8, "k4", 1, "o3"] },
+  { "name": "rita_not", "data": [101, "v", 8, "i4", 1, "o3"] },
+  { "name": "rita_not", "data": [204, "h", 1, "o5", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "k5", 1, "d6"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "k6",
+      "e6",
+      203205,
+      201202,
+      201202,
+      204205,
+      "k5i5",
+      "a4o5",
+      "o5k5",
+      "i5a5"
+    ]
+  },
+  { "name": "rita_rak_kurva", "data": ["e6", 6, "e6", 8] },
+  { "name": "rita_not", "data": [101, "v", 6, "c5", 1, "e6"] },
+  { "name": "rita_not", "data": [105, "v", 6, "a5", 1, "e6"] },
+  { "name": "rita_not", "data": [101, "v", 7, "c5", 1, "e6"] },
+  { "name": "rita_not", "data": [104, "v", 7, "l5", 1, "e6"] },
+  { "name": "rita_not", "data": [101, "v", 8, "c5", 1, "e6"] },
+  { "name": "rita_not", "data": [103, "v", 8, "i5", 1, "e6"] },
+  { "name": "skriva_texten", "data": [8, "o7", 22, "brun", "37"] },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "titel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 5"
+  },
+  {
+    "comment-blue": "(noters takt  38) **************** Sida  6 *** Takt  1"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "skriva_texten", "data": [1, "e7", 38, "sidbokstavs_farg", "F"] },
+  { "name": "rita_not", "data": [105, "v", 1, "l3", 1, "o3"] },
+  { "name": "rita_not", "data": [102, "v", 1, "d4", 1, "o3"] },
+  { "name": "rita_not", "data": [101, "v", 1, "f4", 1, "o3"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "e2",
+      "k2",
+      104101,
+      105102,
+      104101,
+      105102,
+      "f3b3",
+      "e3u3",
+      "k3a3",
+      "d3l3"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["e2", 6, "k2", 10] },
+  { "name": "rita_not", "data": [104, "v", 6, "o3", 1, "e2"] },
+  { "name": "rita_not", "data": [101, "v", 6, "g3", 1, "e2"] },
+  { "name": "rita_not", "data": [105, "v", 7, "c3", 1, "e2"] },
+  { "name": "rita_not", "data": [102, "v", 7, "i3", 1, "e2"] },
+  { "name": "rita_not", "data": [104, "v", 8, "b2", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 8, "f3", 1, "k2"] },
+  { "name": "rita_not", "data": [201, "h", 1, "b4", 1, "o6"] },
+  { "name": "rita_not", "data": [203, "h", 1, "f5", 1, "o6"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "c6",
+      "o6",
+      202205,
+      201204,
+      202205,
+      201204,
+      "l4d5",
+      "g4o5",
+      "c5i5",
+      "b4f5"
+    ]
+  },
+  { "name": "rita_rak_kurva", "data": ["c7", 6, "o7", 10] },
+  { "name": "rita_not", "data": [202, "h", 6, "e5", 1, "c7"] },
+  { "name": "rita_not", "data": [205, "h", 6, "u5", 1, "c7"] },
+  { "name": "rita_not", "data": [201, "h", 7, "k5", 1, "c7"] },
+  { "name": "rita_not", "data": [204, "h", 7, "a5", 1, "c7"] },
+  { "name": "rita_not", "data": [202, "h", 8, "l5", 1, "o7"] },
+  { "name": "rita_not", "data": [205, "h", 8, "d6", 1, "o7"] },
+  { "name": "skriva_texten", "data": [5, "o7", 22, "fargbrun", "38"] },
+  {
+    "comment-blue": "(noters takt  39) **************** Sida  6 *** Takt  2"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "u2", 1, "k2"] },
+  { "name": "rita_not", "data": [102, "v", 1, "e3", 1, "k2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "e2",
+      "k2",
+      104101,
+      105102,
+      104101,
+      105102,
+      "e3u3",
+      "k3a3",
+      "d3l3",
+      "o3g3"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["e2", 6, "k2", 10] },
+  { "name": "rita_not", "data": [104, "v", 6, "c3", 1, "e2"] },
+  { "name": "rita_not", "data": [101, "v", 6, "i3", 1, "e2"] },
+  { "name": "rita_not", "data": [105, "v", 7, "b2", 1, "e2"] },
+  { "name": "rita_not", "data": [102, "v", 7, "f3", 1, "e2"] },
+  { "name": "rita_not", "data": [104, "v", 8, "u2", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 8, "e3", 1, "k2"] },
+  { "name": "rita_not", "data": [201, "h", 1, "g5", 1, "o7"] },
+  { "name": "rita_not", "data": [204, "h", 1, "o6", 1, "o7"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "c6",
+      "o6",
+      202205,
+      201204,
+      202205,
+      201204,
+      "g4o5",
+      "i4c5",
+      "b4f5",
+      "u4e5"
+    ]
+  },
+  { "name": "rita_rak_kurva", "data": ["c7", 6, "o7", 10] },
+  { "name": "rita_not", "data": [202, "h", 6, "k5", 1, "c7"] },
+  { "name": "rita_not", "data": [205, "h", 6, "a5", 1, "c7"] },
+  { "name": "rita_not", "data": [201, "h", 7, "d5", 1, "c7"] },
+  { "name": "rita_not", "data": [204, "h", 7, "l5", 1, "c7"] },
+  { "name": "rita_not", "data": [202, "h", 8, "g5", 1, "o7"] },
+  { "name": "rita_not", "data": [205, "h", 8, "o6", 1, "o7"] },
+  {
+    "comment-blue": "(noters takt  40) **************** Sida  6 *** Takt  3"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "a2", 1, "k2"] },
+  { "name": "rita_not", "data": [102, "v", 1, "k3", 1, "k2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "e2",
+      "k2",
+      104101,
+      105102,
+      104101,
+      105102,
+      "k3a3",
+      "d3l3",
+      "o3g3",
+      "c3i3"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["e2", 6, "k2", 10] },
+  { "name": "rita_not", "data": [104, "v", 6, "b2", 1, "e2"] },
+  { "name": "rita_not", "data": [101, "v", 6, "f3", 1, "e2"] },
+  { "name": "rita_not", "data": [105, "v", 7, "u2", 1, "e2"] },
+  { "name": "rita_not", "data": [102, "v", 7, "e3", 1, "e2"] },
+  { "name": "rita_not", "data": [104, "v", 8, "a2", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 8, "k3", 1, "k2"] },
+  { "name": "rita_not", "data": [201, "h", 1, "i5", 1, "o7"] },
+  { "name": "rita_not", "data": [204, "h", 1, "c6", 1, "o7"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "c6",
+      "o6",
+      202205,
+      201204,
+      202205,
+      201204,
+      "i4c5",
+      "f4b4",
+      "u4e5",
+      "a4k5"
+    ]
+  },
+  { "name": "rita_rak_kurva", "data": ["c7", 6, "o7", 10] },
+  { "name": "rita_not", "data": [202, "h", 6, "d5", 1, "c7"] },
+  { "name": "rita_not", "data": [205, "h", 6, "l5", 1, "c7"] },
+  { "name": "rita_not", "data": [201, "h", 7, "o5", 1, "c7"] },
+  { "name": "rita_not", "data": [204, "h", 7, "g5", 1, "c7"] },
+  { "name": "rita_not", "data": [202, "h", 8, "i5", 1, "o7"] },
+  { "name": "rita_not", "data": [205, "h", 8, "c6", 1, "o7"] },
+  {
+    "comment-blue": "(noters takt  41) **************** Sida  6 *** Takt  4"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "l2", 1, "k2"] },
+  { "name": "rita_not", "data": [102, "v", 1, "d3", 1, "k2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "e1",
+      "k1",
+      104101,
+      105102,
+      104101,
+      105102,
+      "g2o3",
+      "i2c3",
+      "f2b2",
+      "e2u2"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["e1", 6, "k1", 9.3] },
+  { "name": "rita_not", "data": [104, "v", 6, "k2", 1, "e1"] },
+  { "name": "rita_not", "data": [101, "v", 6, "a2", 1, "e1"] },
+  { "name": "rita_not", "data": [105, "v", 7, "d2", 1, "e1"] },
+  { "name": "rita_not", "data": [102, "v", 7, "l2", 1, "e1"] },
+  { "name": "rita_not", "data": [104, "v", 8, "o2", 1, "k1"] },
+  { "name": "rita_not", "data": [101, "v", 8, "g2", 1, "k1"] },
+  { "name": "rita_not", "data": [201, "h", 1, "f5", 1, "o7"] },
+  { "name": "rita_not", "data": [204, "h", 1, "b5", 1, "o7"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "c5",
+      "o5",
+      202205,
+      201204,
+      202205,
+      201204,
+      "u5e6",
+      "a5k6",
+      "d6l6",
+      "o6g6"
+    ]
+  },
+  { "name": "rita_rak_kurva", "data": ["c5", 6, "o5", 9.3] },
+  { "name": "rita_not", "data": [202, "h", 6, "i6", 1, "c5"] },
+  { "name": "rita_not", "data": [205, "h", 6, "c7", 1, "c5"] },
+  { "name": "rita_not", "data": [201, "h", 7, "f6", 1, "c5"] },
+  { "name": "rita_not", "data": [204, "h", 7, "b6", 1, "c5"] },
+  { "name": "rita_not", "data": [202, "h", 8, "u6", 1, "o5"] },
+  { "name": "rita_not", "data": [205, "h", 8, "e7", 1, "o5"] },
+  {
+    "comment-blue": "(noters takt  42) **************** Sida  6 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "b1", 1, "d1"] },
+  { "name": "rita_not", "data": [102, "v", 1, "i2", 1, "d1"] },
+  { "name": "rita_not", "data": [201, "h", 1, "b6", 1, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 1, "k7", 1, "d6"] },
+  { "name": "rita_rak_kurva", "data": ["d7", 2, "d7", 4] },
+  { "name": "rita_not", "data": [202, "h", 2, "k6", 1, "d7"] },
+  { "name": "rita_not", "data": [205, "h", 2, "b6", 1, "d7"] },
+  { "name": "rita_not", "data": [201, "h", 3, "a5", 1, "d7"] },
+  { "name": "rita_not", "data": [203, "h", 3, "i6", 1, "d7"] },
+  { "name": "rita_not", "data": [202, "h", 4, "b5", 1, "d7"] },
+  { "name": "rita_rak_kurva_C", "data": ["d3", 4, "d3", 5] },
+  { "name": "rita_not", "data": [102, "v", 4, "k5", 1, "d3"] },
+  { "name": "rita_not", "data": [105, "v", 5, "a4", 1, "o4"] },
+  { "name": "rita_not", "data": [101, "v", 5, "i5", 1, "d3"] },
+  { "name": "rita_rak_kurva", "data": ["d6", 6, "d6", 7] },
+  { "name": "rita_not", "data": [202, "h", 6, "k4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 6, "b4", 1, "d6"] },
+  { "name": "rita_not", "data": [201, "h", 7, "a3", 1, "d6"] },
+  { "name": "rita_not", "data": [203, "h", 7, "i4", 1, "d6"] },
+  { "name": "rita_rak_kurva_C", "data": ["d2", 8, "d2", 10] },
+  { "name": "rita_not", "data": [103, "v", 8, "k3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 8, "b3", 1, "d2"] },
+  {
+    "comment-blue": "(noters takt  43) **************** Sida  6 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "a2", 1, "d2"] },
+  { "name": "rita_not", "data": [102, "v", 1, "i3", 1, "d2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "k1",
+      "d1",
+      105101,
+      105101,
+      105101,
+      105101,
+      "c2c3",
+      "b1b2",
+      "a1a2",
+      "b1b2"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["k1", 6, "d1", 10] },
+  { "name": "rita_not", "data": [105, "v", 6, "c2", 1, "k1"] },
+  { "name": "rita_not", "data": [101, "v", 6, "c3", 1, "k1"] },
+  { "name": "rita_not", "data": [105, "v", 7, "b1", 1, "k1"] },
+  { "name": "rita_not", "data": [101, "v", 7, "b2", 1, "k1"] },
+  { "name": "rita_not", "data": [105, "v", 8, "a1", 1, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 8, "a2", 1, "d1"] },
+
+  { "name": "rita_rak_kurva", "data": ["o6", 2, "d6", 5] },
+  { "name": "rita_not", "data": [201, "h", 2, "a3", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 2, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 2, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 2, "a4", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 3, "b3", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 3, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 3, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 3, "b4", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 4, "c4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 4, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 4, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 4, "c5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 5, "b3", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 5, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 5, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 5, "b4", 1, ""] },
+
+  { "name": "rita_rak_kurva", "data": ["o6", 6, "d6", 10] },
+  { "name": "rita_not", "data": [201, "h", 6, "a3", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 6, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 6, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 6, "a4", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 7, "b3", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 7, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 7, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 7, "b4", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 8, "c4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 8, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 8, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 8, "c5", 1, ""] },
+  {
+    "comment-blue": "(noters takt  44) **************** Sida  6 *** Takt  7"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "b1", 1, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 1, "b2", 1, "d1"] },
+  { "name": "rita_not", "data": [201, "h", 1, "b3", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 1, "k4", 1, "d6"] },
+  { "name": "rita_not", "data": [203, "h", 1, "i4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "b4", 1, "d6"] },
+  { "name": "rita_rak_kurva", "data": ["d7", 2, "d7", 4] },
+  { "name": "rita_not", "data": [202, "h", 2, "a5", 1, "d7"] },
+  { "name": "rita_not", "data": [205, "h", 2, "k6", 1, "d7"] },
+  { "name": "rita_not", "data": [201, "h", 3, "k5", 1, "d7"] },
+  { "name": "rita_not", "data": [203, "h", 3, "b5", 1, "d7"] },
+  { "name": "rita_not", "data": [202, "h", 4, "i5", 1, "d7"] },
+  { "name": "rita_rak_kurva_C", "data": ["d2", 4, "d2", 5] },
+  { "name": "rita_not", "data": [101, "v", 4, "a4", 1, "d2"] },
+  { "name": "rita_not", "data": [105, "v", 5, "b3", 1, "o3"] },
+  { "name": "rita_not", "data": [101, "v", 5, "a4", 1, "d2"] },
+  { "name": "rita_rak_kurva", "data": ["d5", 6, "d5", 8] },
+  { "name": "rita_not", "data": [202, "h", 6, "a3", 1, "d5"] },
+  { "name": "rita_not", "data": [205, "h", 6, "k4", 1, "d5"] },
+  { "name": "rita_not", "data": [201, "h", 7, "k3", 1, "d5"] },
+  { "name": "rita_not", "data": [203, "h", 7, "b3", 1, "d5"] },
+  { "name": "rita_not", "data": [201, "h", 8, "k3", 1, "d5"] },
+  { "name": "rita_rak_kurva_C", "data": ["d1", 8, "d1", 10] },
+  { "name": "rita_not", "data": [102, "v", 8, "i2", 1, "d1"] },
+  {
+    "comment-blue": "(noters takt  45) **************** Sida  6 *** Takt  8"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "b1", 1, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 1, "a2", 1, "d1"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "k1",
+      "d1",
+      105101,
+      105101,
+      105101,
+      105101,
+      "c2c3",
+      "b1b2",
+      "a1a2",
+      "b1b2"
+    ]
+  },
+  { "name": "rita_rak_kurva_C", "data": ["k1", 6, "d1", 9.3] },
+  { "name": "rita_not", "data": [105, "v", 6, "c2", 1, "k1"] },
+  { "name": "rita_not", "data": [101, "v", 6, "c3", 1, "k1"] },
+  { "name": "rita_not", "data": [105, "v", 7, "b1", 1, "k1"] },
+  { "name": "rita_not", "data": [101, "v", 7, "b2", 1, "k1"] },
+  { "name": "rita_not", "data": [105, "v", 8, "a1", 1, "d1"] },
+  { "name": "rita_not", "data": [101, "v", 8, "a2", 1, "d1"] },
+  { "name": "rita_rak_kurva", "data": ["c6", 2, "o6", 5] },
+  { "name": "rita_not", "data": [201, "h", 2, "a3", 1, "c6"] },
+  { "name": "rita_not", "data": [202, "h", 2, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 2, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 2, "a4", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 3, "b3", 1, "c6"] },
+  { "name": "rita_not", "data": [202, "h", 3, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 3, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 3, "b4", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 4, "c4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 4, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 4, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 4, "c5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 5, "b3", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 5, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 5, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 5, "b4", 1, ""] },
+  { "name": "rita_rak_kurva", "data": ["c6", 6, "o6", 9.3] },
+  { "name": "rita_not", "data": [201, "h", 6, "a3", 1, "c6"] },
+  { "name": "rita_not", "data": [202, "h", 6, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 6, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 6, "a4", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 7, "b3", 1, "c6"] },
+  { "name": "rita_not", "data": [202, "h", 7, "e4", 1, ""] },
+  { "name": "rita_not", "data": [203, "h", 7, "i4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 7, "b4", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 8, "i4", 1, "o6"] },
+  { "name": "rita_not", "data": [205, "h", 8, "i5", 1, ""] },
+  { "name": "skriva_texten", "data": [8, "o7", 22, "config.fargbrun", "45"] },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "config.fargtitel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 6"
+  },
+  {
+    "comment-blue": "(noters takt  46) **************** Sida  7 *** Takt  1"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "skriva_texten",
+    "data": [1, "e7", 38, "config.sidbokstavs_farg", "G"]
+  },
+  { "name": "rita_not", "data": [105, "v", 1, "b2", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 1, "b3", 1, "k2"] },
+  { "name": "rita_not", "data": [201, "h", 1, "i4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 1, "b4", 1, "o6"] },
+  { "name": "rita_not", "data": [204, "h", 1, "k5", 1, "o6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "i5", 1, "o6"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "d3b3",
+      "l3f4",
+      "f3d4",
+      "b2l3"
+    ]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      6,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "c3a3",
+      "i3k4",
+      "k3c4",
+      "a2i3"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "d5b5",
+      "l4f5",
+      "f4d5",
+      "b4l5"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      6,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "c5a5",
+      "i4k5",
+      "k4c5",
+      "a4i5"
+    ]
+  },
+  { "name": "skriva_texten", "data": [5.4, "o7", 22, "config.fargbrun", "46"] },
+  {
+    "comment-blue": "(noters takt  47) **************** Sida  7 *** Takt  2"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "c3a3",
+      "i3k4",
+      "f3d4",
+      "b2l3"
+    ]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      6,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "u2g3",
+      "e3o4",
+      "k3c4",
+      "a2i3"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "c5a5",
+      "i4k5",
+      "f4d5",
+      "b4l5"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      6,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "u4g5",
+      "e4o5",
+      "k4c5",
+      "a4i5"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  48) **************** Sida  7 *** Takt  3"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "c3a3",
+      "i3k4",
+      "k3c4",
+      "a2i3"
+    ]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      6,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "b2l3",
+      "f3d4",
+      "d3b3",
+      "l2f3"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "c5a5",
+      "i4k5",
+      "k4c5",
+      "a4i5"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      6,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "b4l5",
+      "f4d5",
+      "d4b4",
+      "l4f5"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  49) **************** Sida  7 *** Takt  4"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "b2l3",
+      "f3d4",
+      "e3o4",
+      "u2g3"
+    ]
+  },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["k2", 6, "d2", 9.3]
+  },
+  { "name": "rita_not", "data": [105, "v", 6, "a2", 1, "k2"] },
+  { "name": "rita_not", "data": [102, "v", 6, "i3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 7, "k3", 1, "k2"] },
+  { "name": "rita_not", "data": [101, "v", 7, "c4", 1, "k2"] },
+  { "name": "rita_not", "data": [104, "v", 8, "d3", 1, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 8, "b3", 1, "d2"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "b4l5",
+      "f4d5",
+      "e4o5",
+      "u4g5"
+    ]
+  },
+  {
+    "name": "rita_rak_kurva",
+    "data": ["k6", 6, "d6", 9.3]
+  },
+  { "name": "rita_not", "data": [202, "h", 6, "a4", 1, "k6"] },
+  { "name": "rita_not", "data": [205, "h", 6, "i5", 1, "k6"] },
+  { "name": "rita_not", "data": [201, "h", 7, "k4", 1, "k6"] },
+  { "name": "rita_not", "data": [204, "h", 7, "c5", 1, "k6"] },
+  { "name": "rita_not", "data": [201, "h", 8, "d4", 1, "d6"] },
+  { "name": "rita_not", "data": [203, "h", 8, "b4", 1, "d6"] },
+  {
+    "comment-blue": "(noters takt  50) **************** Sida  7 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [105, "v", 1, "l2", 1, "k2"] },
+  { "name": "rita_not", "data": [102, "v", 1, "f3", 1, "k2"] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "b2l3",
+      "f3d4",
+      "d3b3",
+      "l2f3"
+    ]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      6,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "a2i3",
+      "k3c4",
+      "c3a3",
+      "i2k3"
+    ]
+  },
+  { "name": "rita_not", "data": [202, "h", 1, "l4", 1, "o6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "f5", 1, "o6"] },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "b4l5",
+      "f4d5",
+      "d4b4",
+      "l4f5"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      6,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "a4i5",
+      "k4c5",
+      "c4a4",
+      "i4k5"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  51) **************** Sida  7 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "a2i3",
+      "k3c4",
+      "d3b3",
+      "l2f3"
+    ]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      6,
+      "k2",
+      "d2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "g2e3",
+      "o3u3",
+      "c3a3",
+      "i2k3"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "a4i5",
+      "k4c5",
+      "d4b4",
+      "l4f5"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      6,
+      "k6",
+      "d6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "g4e5",
+      "o4u4",
+      "c4a4",
+      "i4k5"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  52) **************** Sida  7 *** Takt  7"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "d2",
+      "o2",
+      105102,
+      103101,
+      104101,
+      105102,
+      "f2d3",
+      "b2l3",
+      "u2g3",
+      "e2o3"
+    ]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      6,
+      "o2",
+      "c2",
+      103101,
+      105102,
+      103101,
+      105102,
+      "u2g3",
+      "e2o3",
+      "u2g3",
+      "e2c3"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "d6",
+      "o6",
+      202205,
+      201204,
+      201203,
+      202205,
+      "f4d5",
+      "b3l4",
+      "u3g4",
+      "e4o5"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      6,
+      "o6",
+      "c6",
+      201203,
+      202205,
+      201203,
+      202205,
+      "u3g4",
+      "e4o5",
+      "u3g4",
+      "e4c5"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  53) **************** Sida  7 *** Takt  8"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [
+      2,
+      "c2",
+      "c2",
+      103101,
+      105102,
+      103101,
+      105102,
+      "u2i3",
+      "e2c3",
+      "u2i3",
+      "e2c3"
+    ]
+  },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["c2", 6, "c2", 9.3]
+  },
+  {
+    "name": "rita_not",
+    "data": [103, "v", 6, "a2", 1, "c2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 6, "i3", 1, "c2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 7, "e2", 1, "c2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 7, "c3", 1, "c2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [103, "v", 8, "a2", 1, "c2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 8, "i3", 1, "c2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      2,
+      "e5",
+      "e5",
+      201203,
+      202205,
+      201203,
+      202205,
+      "u3i4",
+      "e4c5",
+      "u3i4",
+      "e4c5"
+    ]
+  },
+  {
+    "name": "rita_rak_kurva",
+    "data": ["e5", 6, "e5", 9.3]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 6, "a3", 1, "e5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 6, "i4", 1, "e5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 7, "e4", 1, "e5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 7, "c5", 1, "e5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 8, "a3", 1, "e5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 8, "i4", 1, "e5"]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "brun", "53"]
+  },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "titel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 7"
+  },
+  {
+    "comment-blue": "(noters takt  54) **************** Sida  8 *** Takt  1"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "skriva_texten",
+    "data": [1, "e7", 38, "sidbokstavs_farg", "H"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 1, "b2", 1, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 1, "b3", 1, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 3, "e3", 2, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 5, "a2", 2, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [104, "v", 7, "c3", 2, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 1, "b4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 1, "k5", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "b5", 1, "d6"]
+  },
+  {
+    "name": "rita_rak_kurva",
+    "data": ["l3", 3, "a3", 4]
+  },
+  {
+    "name": "rita_not",
+    "data": [201, "h", 3, "d4", 1, "l3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 4, "e4", 1, "a3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "o4", "e4", "a3", "e4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "b4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "l4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "b4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 6, "a4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 7, "i4", 3, "d6"]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "fargbrun", "54"]
+  },
+  {
+    "comment-blue": "(noters takt  55) **************** Sida  8 *** Takt  2"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 1, "b2", 2, "d2"]
+  },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["d1", 3, "d1", 4.3]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 3, "e3", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 3.7, "i3", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 4.3, "e3", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 5, "a2", 2, "d2"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 7, "c3", 2, "d2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "g3", "a3", 201, 202, 201, 202, "a3", "k4", "d4", "e4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "o4", "e4", "a3", "e4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "H", 1, "i4", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "b4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "l4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "b4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 6, "a4", 1, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 7, "i4", 3, "d6"]
+  },
+  {
+    "comment-blue": "(noters takt  56) **************** Sida  8 *** Takt  3"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 1, "b2", 2, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 3, "b1", 2, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 5, "e2", 2, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 7, "b2", 3, "d1"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "d3", "k3", 201, 202, 201, 202, "a3", "k4", "a3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "d3", "k3", 201, 202, 201, 202, "l3", "b3", "g3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "H", 1, "i4", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "l4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 6, "e4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 7, "o4", 2, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  57) **************** Sida  8 *** Takt  4"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_not",
+    "data": [102, "V", 1, "b2", 2, "d1"]
+  },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["d1", 3, "d1", 4.3]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 3, "b1", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [104, "v", 3.7, "o2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 4.3, "b1", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 5, "e2", 2, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 7, "b2", 3, "d1"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "d3", "k3", 201, 202, 201, 202, "i3", "b3", "a3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "d3", "k3", 201, 202, 201, 202, "l3", "b3", "g3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "e4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 2, "k4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "l4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 6, "e4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 7, "o4", 2, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  58) **************** Sida  8 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_not",
+    "data": [101, "V", 1, "b2", 2, "d1"]
+  },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["d1", 3, "d1", 4.3]
+  },
+  {
+    "name": "rita_not",
+    "data": [103, "v", 3, "e2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 3.7, "i2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [103, "v", 4.3, "e2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 5, "b1", 2, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 7, "b2", 3, "d1"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "d3", "k3", 201, 202, 201, 202, "i3", "b3", "g3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "d3", "k3", 201, 202, 201, 202, "i3", "b3", "g3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "e4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 2, "k4", 2, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 4, "o4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "e4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 6, "k4", 2, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 8, "o4", 1, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  59) **************** Sida  8 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_not",
+    "data": [101, "V", 1, "b2", 2, "d1"]
+  },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["d1", 3, "d1", 4.3]
+  },
+  {
+    "name": "rita_not",
+    "data": [103, "v", 3, "e2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 3.7, "i2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [103, "v", 4.3, "e2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 5, "b2", 4, "d2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "d3", "k3", 201, 202, 201, 202, "i3", "b3", "g3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "d3", "k3", 201, 202, 201, 202, "i3", "b3", "g3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "e4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 2, "k4", 2, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 4, "o4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "e4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 6, "k4", 2, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 8, "o4", 1, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  60) **************** Sida  8 *** Takt  7"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["d1", 7, "d1", 8.3]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 7, "i2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [101, "v", 7.7, "l2", 1, "d1"]
+  },
+  {
+    "name": "rita_not",
+    "data": [102, "v", 8.3, "i2", 1, "d1"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "c5",
+      "o5",
+      201205,
+      202204,
+      201205,
+      202204,
+      "i3e4",
+      "b3k4",
+      "i3e4",
+      "b3k4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "c5",
+      "o5",
+      201205,
+      203204,
+      201205,
+      203204,
+      "i3e4",
+      "o4k4",
+      "i3e4",
+      "o4k4"
+    ]
+  },
+  {
+    "comment-blue": "(noters takt  61) **************** Sida  8 *** Takt  8"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_not",
+    "data": [105, "v", 1, "b1", 4, "d1"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "c5",
+      "o5",
+      201205,
+      202204,
+      201205,
+      202204,
+      "i3e4",
+      "a3k4",
+      "i3e4",
+      "a3k4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "c5",
+      "o5",
+      201205,
+      202204,
+      201203,
+      202204,
+      "i3e4",
+      "b3k4",
+      "i3o4",
+      "b3k4"
+    ]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "config.fargbrun", "61"]
+  },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "config.fargtitel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 8"
+  },
+  {
+    "comment-blue": "(noters takt  62) **************** Sida  9 *** Takt  1"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "skriva_texten",
+    "data": [1, "e7", 38, "config.sidbokstavs_farg", "I"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "a3", "b3", "a3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "e4", 2, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 3, "k4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 4, "e4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "k4", 5, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "i4", 5, "d5"]
+  },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "config.fargbrun", "62"]
+  },
+  {
+    "comment-blue": "(noters takt  63) **************** Sida  9 *** Takt  2"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 201, 201, 201, "a3", "b3", "a3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "H", 1, "k4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "H", 1, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 3, "k4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "i4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "e4", 4, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "l4", 5, "e5"]
+  },
+  {
+    "comment-blue": "(noters takt  64) **************** Sida  9 *** Takt  3"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 202, 201, 202, "l3", "e4", "b3", "e4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 203, 201, 202, "k4", "a4", "b3", "k4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "H", 1, "l4", 1, "e5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "o5", 2, "d6"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 8, "b4", 1, ""]
+  },
+  {
+    "comment-blue": "(noters takt  65) **************** Sida  9 *** Takt  4"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k3", "e3", 201, 203, 201, 201, "b3", "e4", "l3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      5,
+      "k3",
+      "e3",
+      201202,
+      201203,
+      201202,
+      201203,
+      "a3o4",
+      "b3k4",
+      "a3o4",
+      "b3k4"
+    ]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 1, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 2, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [202, "h", 3, "k4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 4, "e4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "i4", 5, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  66) **************** Sida  9 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 105, 101, 101, "b1", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 103, 101, 101, "e2", "b2", "b2"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "k3",
+      "e3",
+      201202,
+      201203,
+      201202,
+      201203,
+      "a3o4",
+      "b3k4",
+      "a3o4",
+      "b3k4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k3", "e3", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "H", 1, "i4", 1, "d5"]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "i4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 5, "e4", 4, "d5"]
+  },
+  {
+    "comment-blue": "(noters takt  67) **************** Sida  9 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 105, 101, 101, "e2", "e3", "e3"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 103, 101, 101, "a2", "e3", "e3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "l3",
+      "a3",
+      201202,
+      201203,
+      201202,
+      201203,
+      "d4i4",
+      "e4l4",
+      "d4i4",
+      "e4l4"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "l3", "a3", 201, 202, 201, 202, "o4", "e4", "o4", "e4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 1, "b4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "o5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "o5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "b4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "a4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 6, "b4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 7, "l4", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 8, "a4", 1, ""]
+  },
+  {
+    "comment-blue": "(noters takt  68) **************** Sida  9 *** Takt  7"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppA",
+    "data": [1, 105, 101, 101, "l2", "l3", "l3"]
+  },
+  {
+    "name": "rita_gruppA",
+    "data": [5, 105, 101, 101, "o3", "l3", "l3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [
+      1,
+      "o4",
+      "d4",
+      201203,
+      201,
+      202,
+      201203,
+      "i4c5",
+      "l4",
+      "u4",
+      "l4c5"
+    ]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "b3", "c4", 201, 202, 201, 202, "e4", "l4", "e4", "l4"]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 1, "k5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 2, "e5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 3, "e5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 4, "k5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 5, "o5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [205, "h", 6, "k5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [203, "h", 7, "c5", 1, ""]
+  },
+  {
+    "name": "rita_not",
+    "data": [204, "h", 8, "o5", 1, ""]
+  },
+  {
+    "comment-blue": "(noters takt  69) **************** Sida  9 *** Takt  8"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_rak_kurva_C", "data": ["k2", 1, "k2", 4] },
+  { "name": "rita_not", "data": [105, "v", 1, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 1, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 1, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 1, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 2, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 2, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 2, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 2, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 3, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 3, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 3, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 3, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 4, "o3", 1, "k2"] },
+  { "name": "rita_not", "data": [103, "v", 4, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 4, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 4, "u3", 1, ""] },
+  { "name": "rita_rak_kurva_C", "data": ["d2", 5, "d2", 8] },
+  { "name": "rita_not", "data": [105, "v", 5, "c3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 5, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 5, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 5, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 6, "c3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 6, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 6, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 6, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 7, "c3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 7, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 7, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 7, "u3", 1, ""] },
+  { "name": "rita_not", "data": [105, "v", 8, "c3", 1, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 8, "e3", 1, ""] },
+  { "name": "rita_not", "data": [102, "v", 8, "i3", 1, ""] },
+  { "name": "rita_not", "data": [101, "v", 8, "u3", 1, ""] },
+  { "name": "rita_rak_kurva", "data": ["o6", 1, "o6", 4] },
+  { "name": "rita_not", "data": [201, "h", 1, "e4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 1, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 1, "e5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 2, "i4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 2, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 2, "i5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 3, "k4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 3, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 3, "k5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 4, "e4", 1, "o6"] },
+  { "name": "rita_not", "data": [202, "h", 4, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 4, "e5", 1, ""] },
+  { "name": "rita_rak_kurva", "data": ["d6", 5, "d6", 8] },
+  { "name": "rita_not", "data": [201, "h", 5, "i4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 5, "u4", 1, ""] },
+  { "name": "rita_not", "data": [205, "h", 5, "i5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 6, "l4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 6, "l5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 7, "e4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 7, "e5", 1, ""] },
+  { "name": "rita_not", "data": [201, "h", 8, "i4", 1, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 8, "i5", 1, ""] },
+  {
+    "name": "skriva_texten",
+    "data": [8, "o7", 22, "brun", "69"]
+  },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "titel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 9"
+  },
+  {
+    "comment-blue": "(noters takt  70) **************** Sida 10 *** Takt  1"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "skriva_texten", "data": [1, "e7", 38, "sidbokstavs_farg", "J"] },
+  { "name": "rita_not", "data": [105, "v", 1, "b2", 8, "d2"] },
+  { "name": "rita_not", "data": [103, "v", 1, "e3", 8, "d2"] },
+  { "name": "rita_not", "data": [102, "v", 1, "l3", 8, "d2"] },
+  { "name": "rita_not", "data": [101, "v", 1, "b3", 8, "d2"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k4", "e4", 201, 202, 201, 202, "l4", "b4", "l4", "b4"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k4", "e4", 201, 202, 201, 202, "l4", "b4", "l4", "b4"]
+  },
+  { "name": "rita_not", "data": [204, "h", 1, "e5", 4, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 1, "l5", 5, "e6"] },
+  { "name": "rita_not", "data": [205, "h", 6, "i5", 1, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 7, "e5", 1, "d6"] },
+  { "name": "rita_not", "data": [203, "h", 8, "o5", 1, "d6"] },
+  { "name": "skriva_texten", "data": [8, "o7", 22, "fargbrun", "70"] },
+  {
+    "comment-blue": "(noters takt  71) **************** Sida 10 *** Takt  2"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "k2", "e2", 102, 101, 105, 101, "i3", "b3", "b2", "b3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "k2", "e2", 104, 101, 105, 101, "o3", "l3", "l2", "l3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "b4", "c5", 201, 202, 201, 202, "k4", "i4", "k4", "i4"]
+  },
+  { "name": "rita_rak_kurva", "data": ["c4", 5, "o4", 8] },
+  { "name": "rita_not", "data": [201, "h", 5, "e4", 1, "c4"] },
+  { "name": "rita_not", "data": [202, "h", 6, "l4", 1, "c4"] },
+  { "name": "rita_not", "data": [201, "h", 7, "e4", 1, "o4"] },
+  { "name": "rita_not", "data": [205, "h", 1, "k5", 4, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 5, "e5", 1, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 6, "k5", 1, "d6"] },
+  { "name": "rita_not", "data": [203, "h", 7, "o5", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 8, "l4", 1, "d6"] },
+  {
+    "comment-blue": "(noters takt  72) **************** Sida 10 *** Takt  3"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "o2", "d2", 102, 101, 105, 101, "k3", "l3", "l2", "l3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "b1", "c2", 104, 101, 105, 101, "a2", "e3", "e2", "e3"]
+  },
+  { "name": "rita_rak_kurva", "data": ["g4", 1, "l4", 4] },
+  { "name": "rita_not", "data": [201, "h", 1, "b3", 1, "g4"] },
+  { "name": "rita_not", "data": [202, "h", 2, "k4", 1, "g4"] },
+  { "name": "rita_not", "data": [201, "h", 3, "b3", 1, "l4"] },
+  { "name": "rita_not", "data": [202, "h", 4, "k4", 1, "l4"] },
+  { "name": "rita_rak_kurva", "data": ["l3", 5, "a3", 8] },
+  { "name": "rita_not", "data": [201, "h", 5, "o4", 1, "l3"] },
+  { "name": "rita_not", "data": [201, "h", 6, "e4", 1, "l3"] },
+  { "name": "rita_not", "data": [201, "h", 7, "o4", 1, "a3"] },
+  { "name": "rita_not", "data": [205, "h", 1, "b4", 4, "d6"] },
+  { "name": "rita_not", "data": [205, "h", 5, "o5", 1, "d6"] },
+  { "name": "rita_not", "data": [204, "h", 6, "b4", 1, "d6"] },
+  { "name": "rita_not", "data": [203, "h", 7, "a4", 1, "d6"] },
+  { "name": "rita_not", "data": [202, "h", 8, "e4", 1, "d6"] },
+  {
+    "comment-blue": "(noters takt  73) **************** Sida 10 *** Takt  4"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "b1", "c2", 102, 101, 105, 101, "b2", "e3", "e2", "e3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "b1", "c2", 102, 101, 105, 101, "c3", "e3", "e2", "e3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k4", "e4", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  { "name": "rita_rak_kurva", "data": ["e4", 5, "d4", 7] },
+  { "name": "rita_not", "data": [201, "h", 5, "a3", 1, "e4"] },
+  { "name": "rita_not", "data": [202, "h", 6, "c4", 1, "k4"] },
+  { "name": "rita_not", "data": [201, "h", 7, "a3", 1, "d4"] },
+  { "name": "rita_not", "data": [205, "h", 1, "l4", 5, "d5"] },
+  { "name": "rita_not", "data": [204, "h", 6, "i4", 1, "d5"] },
+  { "name": "rita_not", "data": [203, "h", 7, "e4", 1, "d5"] },
+  { "name": "rita_not", "data": [202, "h", 8, "c4", 1, "d5"] },
+  {
+    "comment-blue": "(noters takt  74) **************** Sida 10 *** Takt  5"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "b1", "c2", 102, 101, 105, 101, "b2", "e3", "e2", "e3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "b1", "c2", 102, 101, 105, 101, "c3", "e3", "e2", "e3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k4", "e4", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  { "name": "rita_rak_kurva", "data": ["e4", 5, "d4", 7] },
+  { "name": "rita_not", "data": [201, "h", 5, "a3", 1, "e4"] },
+  { "name": "rita_not", "data": [202, "h", 6, "c4", 1, "k4"] },
+  { "name": "rita_not", "data": [201, "h", 7, "a3", 1, "d4"] },
+  { "name": "rita_not", "data": [205, "h", 1, "l4", 5, "d5"] },
+  { "name": "rita_not", "data": [204, "h", 6, "i4", 1, "d5"] },
+  { "name": "rita_not", "data": [203, "h", 7, "e4", 1, "d5"] },
+  { "name": "rita_not", "data": [202, "h", 8, "c4", 1, "d5"] },
+  {
+    "comment-blue": "(noters takt  75) **************** Sida 10 *** Takt  6"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "b1", "c2", 102, 101, 105, 101, "b2", "e3", "e2", "e3"]
+  },
+  {
+    "name": "rita_gruppC",
+    "data": [5, "b1", "c2", 102, 101, 105, 101, "b2", "e3", "e2", "e3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k4", "e4", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_gruppD",
+    "data": [5, "k4", "e4", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  { "name": "rita_not", "data": [205, "h", 1, "l4", 9, "d5"] },
+  {
+    "comment-blue": "(noters takt  76) **************** Sida 10 *** Takt  7"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  {
+    "name": "rita_gruppC",
+    "data": [1, "b1", "c2", 102, 101, 105, 101, "b2", "e3", "e2", "e3"]
+  },
+  {
+    "name": "rita_rak_kurva_C",
+    "data": ["b1", 5, "c2", 8]
+  },
+  { "name": "rita_not", "data": [102, "v", 5, "b2", 1, "b1"] },
+  { "name": "rita_not", "data": [101, "v", 6, "e3", 1, "b1"] },
+  { "name": "rita_not", "data": [105, "v", 7, "e2", 1, "c2"] },
+  { "name": "rita_not", "data": [102, "v", 8, "b2", 2, "o3"] },
+  {
+    "name": "rita_gruppD",
+    "data": [1, "k4", "e4", 201, 202, 201, 202, "l3", "b3", "l3", "b3"]
+  },
+  {
+    "name": "rita_rak_kurva",
+    "data": ["e4", 5, "k4", 6]
+  },
+  { "name": "rita_not", "data": [201, "h", 5, "l3", 1, "e4"] },
+  { "name": "rita_not", "data": [202, "h", 6, "b3", 1, "k4"] },
+  { "name": "rita_not", "data": [201, "h", 7, "l3", 2, "k3"] },
+  { "name": "rita_not", "data": [205, "H", 1, "l4", 5, "d5"] },
+  { "name": "rita_not", "data": [204, "h", 6, "i4", 1, "d5"] },
+  { "name": "rita_not", "data": [203, "h", 7, "e4", 1, "d5"] },
+  { "name": "rita_not", "data": [202, "h", 8, "b3", 1, "d5"] },
+  {
+    "comment-blue": "(noters takt  77) **************** Sida 10 *** Takt  8"
+  },
+  { "name": "raknaTaktSida", "data": [] },
+  { "name": "rita_not", "data": [102, "V", 1, "b2", 8, "o3"] },
+  { "name": "rita_not", "data": [105, "v", 1, "e2", 8, "d2"] },
+  { "name": "rita_not", "data": [201, "h", 1, "l3", 8, "d5"] },
+  { "name": "rita_not", "data": [205, "h", 1, "e4", 8, "d5"] },
+  { "name": "skriva_texten", "data": [8, "o7", 22, "config.fargbrun", "77"] },
+  {
+    "name": "skriva_texten_lodratt",
+    "data": [3, "e6", 22, "config.fargtitel", "Chopin Tristesse"]
+  },
+  {
+    "comment-red": "END OF PAGE 10"
+  },
+  {
+    "comment-red": "END OF SHEET MUSIC"
+  }
+]

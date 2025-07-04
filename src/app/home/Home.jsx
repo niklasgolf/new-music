@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 import { getAuth, onAuthStateChanged, signOut } from 'firebase/auth';
 import { auth } from '../../firebase/firebaseConfig';
 import styles from './home.module.css';
@@ -41,10 +42,19 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <header className={styles.header}>
-        <p className={styles.welcomeMessage}>Hello {user.email}</p>
-        <button onClick={handleLogout} className={styles.logoutButton}>
-          Logout
-        </button>
+        <div className={styles.headerLeft}>
+          <p className={styles.welcomeMessage}>Hello {user.email}</p>
+        </div>
+        <div className={styles.headerCenter}>
+          <Link href="/database">
+            <h1>Database</h1>
+          </Link>
+        </div>
+        <div className={styles.headerRight}>
+          <button onClick={handleLogout} className={styles.logoutButton}>
+            Logout
+          </button>
+        </div>
       </header>
       <MelodyProvider>
         <div className={styles.mainContent}>
